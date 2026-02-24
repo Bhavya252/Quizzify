@@ -4,6 +4,7 @@ import dotenv from 'dotenv';
 import quizRouter from "./router/quizRouter.js";
 import routeNotFound from "./middleware/routeNotFound.js";
 import{loginRouter,signupRouter} from "./router/authRouter.js";
+import categoryRouter from "./router/categoryRouter.js";
 
 dotenv.config();
 
@@ -18,6 +19,7 @@ app.use(cors(
 ));
 app.use(express.json());
 
+app.use('/categories',categoryRouter)
 app.use('/quizzes',quizRouter);
 app.use('/auth/login',loginRouter);
 app.use('/auth/signup',signupRouter);
