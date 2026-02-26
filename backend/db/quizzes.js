@@ -6,6 +6,7 @@ const quizzes = {
         {
             id:uuid(),
             category: " Computer Science",
+            image:"https://www.google.com/imgres?q=image%20cse&imgurl=https%3A%2F%2Fcdn.vectorstock.com%2Fi%2F1000v%2F23%2F48%2Fcse-creative-minimalist-letter-logo-unique-vector-53312348.jpg&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fcse-creative-minimalist-letter-logo-unique-vector-53312348&docid=w8DDAONAimBo4M&tbnid=rn71M9BeaEviWM&vet=12ahUKEwin5-m-wPaSAxXMzjgGHeKsOR4QnPAOegQIGBAB..i&w=1000&h=1080&hcb=2&ved=2ahUKEwin5-m-wPaSAxXMzjgGHeKsOR4QnPAOegQIGBAB",
             quiz:[
                 {
                     id:uuid(),
@@ -64,6 +65,7 @@ const quizzes = {
         {
             id:uuid(),
             category: "Apptitude",
+            image:"https://www.google.com/imgres?q=image%20apptitude&imgurl=https%3A%2F%2Fmaafoundation.org%2Fimages%2Fstudent9-12_at.png&imgrefurl=https%3A%2F%2Fwww.maafoundation.org%2Fstudent_aptitudetest.php&docid=Sfd4aFhlCOtgEM&tbnid=gnarLC6x1fbTHM&vet=12ahUKEwic_vqBwfaSAxXnjGMGHRJUI8gQnPAOegQIeBAB..i&w=642&h=499&hcb=2&ved=2ahUKEwic_vqBwfaSAxXnjGMGHRJUI8gQnPAOegQIeBAB",
             quiz:[
                 {
                     id:uuid(),
@@ -123,6 +125,7 @@ const quizzes = {
         {
             id:uuid(),
             category: "General Knowledge",
+            image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Ja2pDa_BBsJPLN5rwP59BvdDU47zUhTF3Q&s",
             quiz:[
                 {
                     id:uuid(),
@@ -181,6 +184,7 @@ const quizzes = {
         {
             id:uuid(),
             category: "Science",
+            image :"https://www.google.com/imgres?q=science%20logo&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fscience-logo-icon-black-white-600w-350144495.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fscience-logo-icon-black-white-vector-350144495&docid=9A5mYBFbfgH8NM&tbnid=tVTU7ar_RoKMxM&vet=12ahUKEwi-xt_owvaSAxUU1TgGHfybONYQnPAOegQIVxAB..i&w=600&h=620&hcb=2&ved=2ahUKEwi-xt_owvaSAxUU1TgGHfybONYQnPAOegQIVxAB",
             quiz:[
                 {
                     id:uuid(),
