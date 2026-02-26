@@ -6,7 +6,7 @@ const quizzes = {
         {
             id:uuid(),
             category: " Computer Science",
-            image:" https://www.google.com/imgres?q=cse%20images&imgurl=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F0c0246_8a9e99ebe7ee4c458782203abcc47694~mv2.jpg%2Fv1%2Ffill%2Fw_960%2Ch_640%2Cal_c%2Cq_85%2Fcse.jpg&imgrefurl=https%3A%2F%2Fwww.mallareddyuniversity.ac.in%2Fsoe%2Fcse%2Fdepartment-home&docid=2FwUx3klUBjkpM&tbnid=_tyGrrYv_f0yoM&vet=12ahUKEwjs7_Hw8faSAxWNzTgGHaslLI8QnPAOegQIGhAB..i&w=960&h=640&hcb=2&ved=2ahUKEwjs7_Hw8faSAxWNzTgGHaslLI8QnPAOegQIGhAB",
+            image:"https://images.unsplash.com/photo-1669023414162-5bb06bbff0ec?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             quiz:[
                 {
                     id:uuid(),
@@ -64,8 +64,8 @@ const quizzes = {
         },
         {
             id:uuid(),
-            category: "Apptitude",
-            image:"https://www.google.com/imgres?q=apptitude%20images&imgurl=https%3A%2F%2Fapptitude.io%2Fog-image.png&imgrefurl=https%3A%2F%2Fapptitude.io%2F&docid=xlbJu3HqhM37yM&tbnid=DgFi4BQYYhEb6M&vet=12ahUKEwjK6o-k8vaSAxUIzzgGHZ3eIv8QnPAOegQIJxAB..i&w=1200&h=630&hcb=2&ved=2ahUKEwjK6o-k8vaSAxUIzzgGHZ3eIv8QnPAOegQIJxAB",
+            category: "Aptitude",
+            image:"https://plus.unsplash.com/premium_photo-1682125773446-259ce64f9dd7?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             quiz:[
                 {
                     id:uuid(),
@@ -125,7 +125,7 @@ const quizzes = {
         {
             id:uuid(),
             category: "General Knowledge",
-            image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Ja2pDa_BBsJPLN5rwP59BvdDU47zUhTF3Q&s",
+            image:"https://plus.unsplash.com/premium_photo-1682795706664-248cbb76f1c9?q=80&w=1112&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             quiz:[
                 {
                     id:uuid(),
@@ -184,7 +184,7 @@ const quizzes = {
         {
             id:uuid(),
             category: "Science",
-            image :"https://www.google.com/imgres?q=Science%20images%20background%20with%20science%20written%20on%20it&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fscience-word-concept_23-2148534009.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fscience-text&docid=oq3OUe5hIPqjZM&tbnid=rNfRpclukOEl_M&vet=12ahUKEwiIqOHW8vaSAxUG7zgGHTcTBTcQnPAOegQIFhAB..i&w=626&h=417&hcb=2&ved=2ahUKEwiIqOHW8vaSAxUG7zgGHTcTBTcQnPAOegQIFhAB",
+            image :"https://images.unsplash.com/photo-1628595351029-c2bf17511435?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             quiz:[
                 {
                     id:uuid(),
